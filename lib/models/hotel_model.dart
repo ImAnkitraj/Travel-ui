@@ -20,19 +20,19 @@ final List<Hotel> hotels = [
     price: 100,
   ),
     Hotel(
-    imageUrl: 'assets/images/1.jpg',
+    imageUrl: 'assets/images/4.jpg',
     name: 'Shyam Hotel',
     address: 'Dukan ke Niche',
     price: 100,
   ),
     Hotel(
-    imageUrl: 'assets/images/1.jpg',
+    imageUrl: 'assets/images/2.jpg',
     name: 'Shyam Hotel',
     address: 'Dukan ke Niche',
     price: 100,
   ),
     Hotel(
-    imageUrl: 'assets/images/1.jpg',
+    imageUrl: 'assets/images/3.jpg',
     name: 'Shyam Hotel',
     address: 'Dukan ke Niche',
     price: 100,
